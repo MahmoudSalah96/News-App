@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/setting_title">
+
+    <ListPreference
+        android:defaultValue="@string/pillar_default_name"
+        android:entries="@array/pillar_name"
+        android:entryValues="@array/pillar_value"
+        android:key="@string/settings_key"
+        android:title="@string/setting_pillar" />
+
+
+</PreferenceScreen>

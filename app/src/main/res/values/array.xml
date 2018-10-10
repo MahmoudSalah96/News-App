@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pillar_name">
+        <item>@string/pillar_news_name</item>
+        <item>@string/pillar_sport_name</item>
+        <item>@string/pillar_arts_name</item>
+    </string-array>
+
+    <string-array name="pillar_value">
+        <item>@string/pillar_news_value</item>
+        <item>@string/pillar_sport_value</item>
+        <item>@string/pillar_arts_value</item>
+    </string-array>
+</resources>

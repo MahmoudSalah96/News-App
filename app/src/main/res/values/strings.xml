@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="descripe">Here Will Be The Description Of the Article</string>
+    <string name="title">Title is written Here</string>
+    <string name="no_internet_connection">No News updates available \n please reload the app or \n check after some time..</string>
+    <string name="no_news">No Newses found.</string>
+    <string name="section">Sport</string>
+    <string name="Type">Type :</string>
+    <string name="newstype">article</string>
+    <string name="Date">Date : </string>
+    <string name="newsdate">2016-10-09T11:18:14Z</string>
+    <string name="Author">Author : </string>
+    <string name="AuthorName">Un Known</string>
+
+   <string name="setting_title">News Setting</string>
+    <string name="setting_pillar">pillar</string>
+
+    <string name="pillar_default_name">@string/pillar_arts_name</string>
+
+    <string name="pillar_news_name">pillar/News</string>
+    <string name="pillar_sport_name">pillar/Sport</string>
+    <string name="pillar_arts_name">pillar/Arts</string>
+
+    <string name="pillar_default_value">@string/pillar_arts_value</string>
+
+    <string name="pillar_news_value" translatable="false">News</string>
+    <string name="pillar_sport_value" translatable="false">Sport</string>
+    <string name="pillar_arts_value" translatable="false">Arts</string>
+
+    <string name="settings_key" translatable="false">ٍSettings</string>
+    <string name="settings_menu_item">Settings</string>
+
+
+</resources>

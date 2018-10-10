@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TitleColor">#3F51B5</color>
+    <color name="SectionColor">#F44336</color>
+    <color name="NewsType">#689F38</color>
+    <color name="newsDate">#01579B</color>
+    <color name="ListBackground">#E0F2F1</color>
+    <color name="TitleBackground">#80CBC4</color>
+    <color name="Authorcolor">#6200EE</color>
+</resources>
